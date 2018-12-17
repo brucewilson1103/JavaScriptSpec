@@ -1,0 +1,2 @@
+# JavaScriptSpec
+JavaScript Sample Practice
